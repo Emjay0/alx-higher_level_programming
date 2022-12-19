@@ -1,0 +1,2 @@
+0x05. Python - Exceptions
+HOW TO HANDLE PYTHON EXCEPTIONS
